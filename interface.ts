@@ -19,6 +19,5 @@ interface devoloper extends CommonData{
 const ash: devoloper ={
     name : 'ash',
     age : 25,
-    birthYear : 1995,
     laguage : 'js',
 }
